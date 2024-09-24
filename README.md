@@ -13,7 +13,4 @@ This project focuses on predicting house prices using a Machine Learning model b
 - Model Performance: The Random Forest Regressor ensures robust performance by reducing overfitting and handling missing data or outliers effectively.
 - User-friendly Interface: A clean and simple web UI, built with Flask, offers ease of use for users to interact with the model and obtain predictions quickly.
   
-### Future Enhancements:
-- Incorporating additional features such as property age, neighborhood quality, and proximity to amenities.
-- Adding data visualization tools to allow users to explore trends in the dataset.
-- Implementing a backend database to store user inputs and predictions for future analysis.
+
