@@ -1,4 +1,5 @@
 #House Price Prediction Project
+
 This project focuses on predicting house prices using a Machine Learning model based on the Random Forest Regressor algorithm. The model is trained on a dataset that includes various features such as location, area size, number of rooms, and more. By leveraging the power of ensemble learning, the model achieves a high prediction accuracy of 91.67%.
 
 **Project Overview:**
