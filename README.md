@@ -12,7 +12,7 @@ This project focuses on predicting house prices using a Machine Learning model b
 - Real-time Price Prediction: Users can input features like the number of rooms, area, and location to get an instant house price prediction.
 - Model Performance: The Random Forest Regressor ensures robust performance by reducing overfitting and handling missing data or outliers effectively.
 - User-friendly Interface: A clean and simple web UI, built with Flask, offers ease of use for users to interact with the model and obtain predictions quickly.
-- 
+  
 ### Future Enhancements:
 - Incorporating additional features such as property age, neighborhood quality, and proximity to amenities.
 - Adding data visualization tools to allow users to explore trends in the dataset.
