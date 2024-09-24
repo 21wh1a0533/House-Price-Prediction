@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>House Price Prediction Result</title>
+    <style>
+        body {
+            background-color: #f2f2f2; /* Set a background color for the entire page */
+            background-image: url('{{url_for('static',filename='image.jpg')}}'); /* Add your background image URL here */
+            background-size:cover;
+            font-family : Arial, sans-serif; /* Choose a font for the text */
+            text-align : center; /* Center-align text in the body */
+            margin : 0; /* Remove default margin */
+            padding : 0; /* Remove default padding */
+
+        }
+
+        h1 {
+            background-color: #eaedec; /* Set a background color for the heading */
+            color: black(233, 189, 189); /* Set text color for the heading */
+            padding: 20px; /* Add padding to the heading */
+            font-size: 40px;
+        }
+
+        p {
+            font-size: 24px; /* Increase the text size for the predicted price */
+        }
+
+        a {
+            text-decoration: none; /* Remove underlines from links */
+            background-color: #d2d5d5; /* Set a background color for the link */
+            color: black(255, 255, 255, 0); /* Set text color for the link */
+            padding: 10px 20px; /* Add padding to the link */
+            border-radius: 5px; /* Add rounded corners */
+        }
+
+        a:hover {
+            background-color: #e8efed; /* Change the background color on hover */
+        }
+    </style>
+</head>
+<body>
+    <h1>House Price Prediction </h1>
+    <p>The predicted house price is: ${{predicted_price}} </p>
+</body>
+</html>
