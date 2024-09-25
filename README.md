@@ -14,3 +14,5 @@ This project focuses on predicting house prices using a Machine Learning model b
 - User-friendly Interface: A clean and simple web UI, built with Flask, offers ease of use for users to interact with the model and obtain predictions quickly.
   
 
+![Output 1](https://github.com/user-attachments/assets/12a78bcd-dbd6-406a-a13c-968051971e5b)
+![Output 2](https://github.com/user-attachments/assets/cddf17fc-591c-44af-bfbe-186d5a32da9d)
